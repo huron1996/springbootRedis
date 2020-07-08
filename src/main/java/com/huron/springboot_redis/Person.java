@@ -12,3 +12,8 @@ public class Person {
         this.height = height;
     }
 }
+
+
+class Man{
+
+}
